@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ragesick
+- 👋 Hi, I’m @mmanzine
 - 👀 I’m interested in ... being a front end developer
 - 🌱 I’m currently learning ... javascript, react native, ES6, NodeJS
 - 💞️ I’m looking to collaborate on ...everything I can!
