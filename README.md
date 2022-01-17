@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmanzine
 - 👀 I’m interested in ... being a front end developer
-- 🌱 I’m currently learning ... javascript, react native, ES6, NodeJS
+- 🌱 I’m currently learning ... javascript, react native, ES6, NodeJS and UX/UI design
 - 💞️ I’m looking to collaborate on ...everything I can!
 - 📫 How to reach me ... send me a mail to mario.manzine@hotmail.com
 
